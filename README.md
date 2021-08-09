@@ -2,6 +2,8 @@
 Projects from my Courseworks at University of Central Florida in CAP 6110 : Augmented Reality Engineering
 Faculty [Ryan McMahan](https://www.cs.ucf.edu/person/ryan-mcmahan/)
 
+Each project has link to the corresponding video output.
+
 ## [Project 1](https://youtu.be/kDU60k2nmZE) : Tracked targets with associated virtual objects 
   The entire project folder is available [here](https://knightsucfedu39751-my.sharepoint.com/:u:/g/personal/abraham_knights_ucf_edu/ET2N97ug1zlGotagsdzu20MBFUmoAC7IWBaO-zlB4y5ogQ?e=QlFUD1)
   Using Vuforia to track objects for associated objects with animation and video/audio objects.  
